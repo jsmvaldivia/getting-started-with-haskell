@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d191e27b-8f2d-4a5d-a88f-9b7b603f692f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1b2ohaxBB9n7NZ5KPE3ee2LrQL7" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/009_highOrderFunctions" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/011_typeBasics" />
+      <recent name="$PROJECT_DIR$/001_hello" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/009_highOrderFunctions" />
+      <recent name="$PROJECT_DIR$/005_closures" />
+      <recent name="$PROJECT_DIR$/004_firstClassFunctions" />
+    </key>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d191e27b-8f2d-4a5d-a88f-9b7b603f692f" name="Default Changelist" comment="" />
+      <created>1587839669705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587839669705</updated>
+      <workItem from="1587839671285" duration="40280000" />
+      <workItem from="1588707865938" duration="6330000" />
+      <workItem from="1588849446856" duration="31573000" />
+      <workItem from="1589329148232" duration="18962000" />
+      <workItem from="1589964243512" duration="12558000" />
+      <workItem from="1590489181675" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="100" key="#Project_Structure" timestamp="1587839789309">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="448" y="100" key="#Project_Structure/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1587839789309" />
+    <state x="704" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590430104627">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="704" y="348" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1590430104627" />
+    <state x="704" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1588198500059" />
+    <state x="587" y="215" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587839823260">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="587" y="215" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1587839823260" />
+    <state x="448" y="100" key="SettingsEditor" timestamp="1587839831012">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="448" y="100" key="SettingsEditor/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1587839831012" />
+    <state x="690" y="258" width="540" height="524" key="StructurePopup" timestamp="1587917404815">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="690" y="258" width="540" height="524" key="StructurePopup/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1587917404815" />
+    <state x="583" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587903870474">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="583" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1587903870474" />
+    <state x="835" y="383" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1587917403641">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="835" y="383" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1587917403641" />
+    <state x="382" y="222" key="new project wizard" timestamp="1590430088803">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="382" y="222" key="new project wizard/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1590430088803" />
+    <state x="625" y="248" key="run.anything.popup" timestamp="1589044164602">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="248" key="run.anything.popup/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1589044164602" />
+    <state x="625" y="256" width="670" height="721" key="search.everywhere.popup" timestamp="1589919583346">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="256" width="670" height="721" key="search.everywhere.popup/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1589919583346" />
+    <state x="625" y="242" width="670" height="676" key="search.everywhere.popup/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1588200346830" />
+  </component>
+</project>
