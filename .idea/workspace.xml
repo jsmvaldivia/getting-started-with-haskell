@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d191e27b-8f2d-4a5d-a88f-9b7b603f692f" name="Default Changelist" comment="" />
+    <list default="true" id="d191e27b-8f2d-4a5d-a88f-9b7b603f692f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009_highOrderFunctions/higherOrderFunctions.hs" beforeDir="false" afterPath="$PROJECT_DIR$/009_highOrderFunctions/higherOrderFunctions.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/011_typeBasics/types.hs" beforeDir="false" afterPath="$PROJECT_DIR$/011_typeBasics/types.hs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +32,16 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
   <component name="ProjectId" id="1b2ohaxBB9n7NZ5KPE3ee2LrQL7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -67,11 +93,23 @@
       <workItem from="1589329148232" duration="18962000" />
       <workItem from="1589964243512" duration="12558000" />
       <workItem from="1590489181675" duration="964000" />
+      <workItem from="1591295257011" duration="11335000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="100" key="#Project_Structure" timestamp="1587839789309">
@@ -99,6 +137,10 @@
       <screen x="0" y="23" width="1920" height="992" />
     </state>
     <state x="583" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1587903870474" />
+    <state x="666" y="293" width="588" height="486" key="find.popup" timestamp="1591309864994">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="666" y="293" width="588" height="486" key="find.popup/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1591309864994" />
     <state x="835" y="383" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1587917403641">
       <screen x="0" y="23" width="1920" height="992" />
     </state>
@@ -111,10 +153,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="625" y="248" key="run.anything.popup/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1589044164602" />
-    <state x="625" y="256" width="670" height="721" key="search.everywhere.popup" timestamp="1589919583346">
+    <state x="625" y="256" width="670" height="721" key="search.everywhere.popup" timestamp="1591304921497">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="625" y="256" width="670" height="721" key="search.everywhere.popup/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1589919583346" />
+    <state x="625" y="256" width="670" height="721" key="search.everywhere.popup/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1591304921497" />
     <state x="625" y="242" width="670" height="676" key="search.everywhere.popup/0.23.1920.992/1920.23.1680.1027@0.23.1920.992" timestamp="1588200346830" />
   </component>
 </project>
