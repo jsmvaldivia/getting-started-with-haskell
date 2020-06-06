@@ -37,7 +37,7 @@ myFoldl f init (x:xs) = myFoldl f newInit xs
   where newInit = f init x
 
 -- myFoldl always recursing on the rest of the list, it must get
--- smaller until it's empty (if not infinite)
+-- smaller untill it's empty (if not infinite)
 
 myFoldr f init [] = init
 myFoldr f init (x:xs) = f x rightResult

@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d191e27b-8f2d-4a5d-a88f-9b7b603f692f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/011_typeBasics/userDefinedTypes.hs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/009_highOrderFunctions/higherOrderFunctions.hs" beforeDir="false" afterPath="$PROJECT_DIR$/009_highOrderFunctions/higherOrderFunctions.hs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/011_typeBasics/types.hs" beforeDir="false" afterPath="$PROJECT_DIR$/011_typeBasics/types.hs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1589329148232" duration="18962000" />
       <workItem from="1589964243512" duration="12558000" />
       <workItem from="1590489181675" duration="964000" />
-      <workItem from="1591295257011" duration="11335000" />
+      <workItem from="1591295257011" duration="18426000" />
     </task>
     <servers />
   </component>
