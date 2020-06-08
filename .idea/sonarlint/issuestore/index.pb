@@ -37,3 +37,8 @@ n
 0010_functionalObjectOrientedProgramming/robot.hs,1/7/17d5606148b600e04cdd2808c61af18dd44655c3
 G
 011_typeBasics/types.hs,9/d/9d763eef9f5c0272abe90cc566ee560d12e66904
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+R
+"011_typeBasics/userDefinedTypes.hs,a/2/a27c994b6baa7499e5de964faad9be37f59b7dce
